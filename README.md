@@ -20,8 +20,8 @@ A desktop app for searching and AI-analysing GitHub repositories. Filter by doma
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/KarineTadevosyan/github-repo-scout.git
-cd github-repo-scout
+git@github.com:Softhenge/repo_scout.git
+cd repo-scout
 ```
 
 **2. Install dependencies**
